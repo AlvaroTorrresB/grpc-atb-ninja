@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.atb.grpc.ninja,blockchain.grpc-atb-ninja.main" target="1.8" />
+      <module name="com.atb.grpc.ninja,blockchain.grpc-atb-ninja.test" target="1.8" />
+      <module name="com.atb.grpc.ninja.blo.grpc-atb-ninja.main" target="1.8" />
+      <module name="com.atb.grpc.ninja.blo.grpc-atb-ninja.test" target="1.8" />
+      <module name="com.atb.grpc.ninja.block.grpc-atb-ninja.main" target="1.8" />
+      <module name="com.atb.grpc.ninja.block.grpc-atb-ninja.test" target="1.8" />
+      <module name="com.atb.grpc.ninja.blockc.grpc-atb-ninja.main" target="1.8" />
+      <module name="com.atb.grpc.ninja.blockc.grpc-atb-ninja.test" target="1.8" />
+      <module name="com.atb.grpc.ninja.blockch.grpc-atb-ninja.main" target="1.8" />
+      <module name="com.atb.grpc.ninja.blockch.grpc-atb-ninja.test" target="1.8" />
+      <module name="com.atb.grpc.ninja.blockcha.grpc-atb-ninja.main" target="1.8" />
+      <module name="com.atb.grpc.ninja.blockcha.grpc-atb-ninja.test" target="1.8" />
+      <module name="com.atb.grpc.ninja.grpc-atb-ninja.main" target="1.8" />
+      <module name="com.atb.grpc.ninja.grpc-atb-ninja.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
